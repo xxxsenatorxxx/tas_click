@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/tas_click/static/js/main.55472ca4.js",
+    "static/media/spinner.svg": "/tas_click/static/media/spinner.5a87333a5f6085fb42fd042125752b68.svg",
+    "index.html": "/tas_click/index.html",
+    "main.55472ca4.js.map": "/tas_click/static/js/main.55472ca4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.55472ca4.js"
+  ]
+}
